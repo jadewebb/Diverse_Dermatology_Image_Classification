@@ -10,7 +10,7 @@ Dataset: Diverse Dermatology Images Dataset by Stanford University https://ddi-d
 
    > .\azcopy cp 'source_directory_url' 'destination directory' --recursive
 
-Image dataset was loaded and visualized, metadata was loaded and 'malignancy' labels were isolated, and the datasets were combined
+Image dataset was loaded and visualized, metadata was loaded with the 'malignancy' labels isolated, and the datasets were combined
 
 Dataset was shuffled, split into training, validation, and testing sets (70:15:15), preprocessed through standardization and augmentation (flip, rotation, zoom, contrast), and batched
 
