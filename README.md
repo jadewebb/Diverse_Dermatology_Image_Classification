@@ -1,6 +1,6 @@
 # Diverse Dermatology Image Classification
 
-Two machine learning models, Convolutional Neural Network - GoogLeNet Architecture and Convolutional Neural Network - Basic Architecture, trained to classify dermatology images of diverse skin tones
+Two machine learning models, Convolutional Neural Network (CNN) - GoogLeNet Architecture and CNN - Basic Architecture, trained to classify dermatology images of diverse skin tones
 
 Dataset: Diverse Dermatology Images Dataset by Stanford University https://ddi-dataset.github.io/
 
