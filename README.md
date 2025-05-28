@@ -9,3 +9,5 @@ Dataset: Diverse Dermatology Images Dataset by Stanford University https://ddi-d
   * Obtained by registering with Standford AIMI to obtain a unique download link, accessed through Microsoft Azure's AzCopy 
 
    > .\azcopy cp 'source_directory_url' 'destination directory' --recursive
+
+Description: TBD
