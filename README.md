@@ -2,7 +2,7 @@
 
 Two machine learning models, Convolutional Neural Network (CNN) - GoogLeNet Architecture and CNN - Basic Architecture, trained to classify dermatology images of diverse skin tones
 
-Dataset: Diverse Dermatology Images Dataset by Stanford University https://ddi-dataset.github.io/
+Dataset: Diverse Dermatology Images Dataset by Stanford University [![Dataset](https://img.shields.io/badge/Dataset-8A2BE2)](https://ddi-dataset.github.io/)
 
   * 656 dermatology images of skin lesions from 570 diverse patients, labeled according to skin tone, malignancy, and diagnosis
 
@@ -30,7 +30,7 @@ Model architectures were defined as follows:
      
      * 1 Dense output layer with softmax activation for classification
   
-  * GoogLeNet CNN: GoogLeNet architecture by Szegedy et al. according to https://github.com/KhuyenLE-maths/Implementation-of-GoogLeNet-on-Keras/blob/main/Implementation_of_GoogLeNet_on_Keras.ipynb
+  * GoogLeNet CNN: GoogLeNet architecture by Szegedy et al. according to [![GitHub](https://img.shields.io/badge/Notebook-181717?logo=github&logoColor=white)](https://github.com/KhuyenLE-maths/Implementation-of-GoogLeNet-on-Keras/blob/main/Implementation_of_GoogLeNet_on_Keras.ipynb)
 
      * Note: the pretrained GoogLeNet was not utilized, instead the GoogLeNet architecture was trained from scratch using the DDI dataset
    
