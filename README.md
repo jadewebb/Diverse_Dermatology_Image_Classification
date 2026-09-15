@@ -30,7 +30,7 @@ Model architectures were defined as follows:
      
      * 1 Dense output layer with softmax activation for classification
   
-  * GoogLeNet CNN: GoogLeNet architecture by Szegedy et al. according to [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/KhuyenLE-maths/Implementation-of-GoogLeNet-on-Keras/blob/main/Implementation_of_GoogLeNet_on_Keras.ipynb)
+  * GoogLeNet CNN: GoogLeNet architecture by Szegedy et al., Source: [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/KhuyenLE-maths/Implementation-of-GoogLeNet-on-Keras/blob/main/Implementation_of_GoogLeNet_on_Keras.ipynb)
 
      * Note: the pretrained GoogLeNet was not utilized, instead the GoogLeNet architecture was trained from scratch using the DDI dataset
    
